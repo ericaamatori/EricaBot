@@ -1,8 +1,8 @@
 {
-    "BOT": "Hi there!\nI’m the personal bot of Erica, a Digital Marketer and Startup Follower.\nWant to know more about bots or learn about Erica? %[I'm here for the bot](postback:here_for_the_bot) %[Learn about Erica](postback:learn_about_erica) %[One random fact!](postback:random_fact)",
-    "HERE FOR THE BOT": "Great! Start by saying hi or hello.",
+    "BOT": "Hi there!\nI’m the personal bot of Erica, a Digital Marketer and Startup Follower.\n[erica](http://s32.postimg.org/br3g1ac4l/Screen_Shot_2016_05_01_at_1_40_42_PM.png)\nWant to know more about bots or learn about Erica? %[I'm here for the bot](postback:here_for_the_bot) %[Learn about Erica](postback:learn_about_erica) %[One random fact!](postback:random_fact)",
+    "I'M HERE FOR THE BOT": "Great! Start by saying hi or hello.",
     "LEARN ABOUT ERICA": "I am a recent graduate of the College of William and Mary and am a double major in marketing and psychology with a concentration in business analytics.  I have interned at digital marketing agencies, Fortune 500 companies and even started my own Saas startup.  I will soon be moving to DC to continue my adventure at Mondo.",
-    "RANDOM FACT": "I have skydived over the Great Barrier Reef in Australia!",
+    "ONE RANDOM FACT!": "I have skydived over the Great Barrier Reef in Australia!",
     "HELLO": "Hey, I'm Erica's Bot! Glad you are chatting with me! Do you want to tell Erica that you're talking to her bot? %[Tell her](postback:twitter)",
     "HI": "Hey, I'm Erica's Bot! Glad you are chatting with me! Do you want to tell Erica that you're talking to her bot? %[Tell her](postback:twitter)",
     "TELL HER": "Let's tweet @ Erica so she knows you're talking to me. Here's a tweet that's ready to go: %[Tweet Erica](https://twitter.com/home?status=I'm%20chatting%20with%20%40ericaamatori%20via%20her%20bot.%20It's%20a%20little%20weird%20but%20you%20should%20try%20it.%20Go%20to%20https%3A//ericabot.herokuapp.com/)",
