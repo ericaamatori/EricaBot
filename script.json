@@ -1,5 +1,5 @@
 {
-    "BOT": "Hi there!\nI’m the personal bot of Erica, a Digital Marketer and Startup Follower.\n[erica](http://s32.postimg.org/br3g1ac4l/Screen_Shot_2016_05_01_at_1_40_42_PM.png)\nWant to know more about bots or learn about Erica? %[I'm here for the bot](postback:here_for_the_bot) %[Learn about Erica](postback:learn_about_erica) %[One random fact!](postback:random_fact)",
+    "BOT": "Hi there!\nI’m the personal bot of Erica, a Digital Marketer and Startup Follower.\n![erica](http://s32.postimg.org/br3g1ac4l/Screen_Shot_2016_05_01_at_1_40_42_PM.png)\nWant to know more about bots or learn about Erica? %[I'm here for the bot](postback:here_for_the_bot) %[Learn about Erica](postback:learn_about_erica) %[One random fact!](postback:random_fact)",
     "I'M HERE FOR THE BOT": "Great! Start by saying hi or hello.",
     "LEARN ABOUT ERICA": "I am a recent graduate of the College of William and Mary and am a double major in marketing and psychology with a concentration in business analytics.  I have interned at digital marketing agencies, Fortune 500 companies and even started my own Saas startup.  I will soon be moving to DC to continue my adventure at Mondo.",
     "ONE RANDOM FACT!": "I have skydived over the Great Barrier Reef in Australia!",
